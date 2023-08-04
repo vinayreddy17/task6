@@ -1,0 +1,138 @@
+1) 
+
+ans: alert("I'm JavaScript!");
+ also fix the quotations in src of script
+
+=====================================================================================================
+
+2) 
+
+ans:in script.js alert("I'm invoked!");
+ also fix the quotations in src of script
+===================================================================================================
+
+3)
+
+ans: if you change the quotations in script and run the file on a blank page the alerrts as shown in the order will be displayed
+================================================================================================================================
+4) 
+
+ANS;use let before lname
+ CHANGE ; in script admin=fname+' '+lname
+====================================================================================================
+5) 
+ans: use single quotes inside the alert message and also add spaces in between words in admin definition
+==============================================================================================================================
+6)
+ans:alert(parseInt(a) + parseInt(b));
+==============================================================================================================================
+
+7)
+ans:strings are compared so first character of 2,first character of 12 are compared 2 is compared with1 as a string .which makes it true so code is blasted
+    remove the quotes on 2,12 to get success
+==============================================================================================================================
+
+8)
+ans: press enter without any entries
+==============================================================================================================================
+
+9)let value = parseInt(prompt('How many runs you scored in this ball'));
+ans:convert the inpit strig to number before comparing
+==============================================================================================================================
+
+10)
+ans:let login = 'Employee';
+let message = (login == 'Employee') ? 'Welcome employee' :
+  (login == 'Director') ? 'Greetings director' :
+  (login == '') ? 'No login' :
+  '';
+console.log(message);
+
+==============================================================================================================================
+
+11)
+ans:let message;
+if (null || 2 || undefined)
+{
+ message = "welcome boss";
+}
+else
+{
+ message = "Go away";
+}
+console.log(message);
+
+==============================================================================================================================
+
+12) 
+ans:  const  message= "welcome";
+let lock = 2;
+// Don't change any code below this
+if (null || lock || undefined)
+{
+  message = "Go away";
+}
+else
+{
+ message = "welcome";
+}
+console.log(message);
+
+==============================================================================================================================
+
+13)
+ans:  declare const message="welcome";
+==============================================================================================================================
+
+14)
+ans: let i = 3;
+while (i) {
+  console.log(--i);
+}
+
+==============================================================================================================================
+
+15)
+ans:let num = 1;
+for (let i = 0; i < 10; i++) {
+  console.log(num);
+  num++;
+}
+
+==============================================================================================================================
+
+16)
+ans:for (let num = 2; num <= 20; num += 2) {
+  console.log(num);
+}
+
+==============================================================================================================================
+
+17)
+ans:let gifts = ["teddy bear", "drone", "doll"];
+for (let i = 0; i < 3; i++) {
+  console.log(`Wrapped ${gifts[i]} and added a bow!`);
+}
+
+==============================================================================================================================
+
+18)
+ans: let countdown = 100;
+while (countdown > 0) {
+ 
+  if(countdown == 0)
+  {
+   console.log("bomb triggered");
+  }
+   countdown--;
+}
+==============================================================================================================================
+
+19)
+ans: hi
+first if is satisfied and boolean value of 0 is false so second if is not carried out
+
+
+==============================================================================================================================
+
+
